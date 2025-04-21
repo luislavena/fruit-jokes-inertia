@@ -1,0 +1,23 @@
+name: fruit_jokes
+version: 0.0.1
+license: Apache-2.0
+crystal: ">= 1.15.0, < 2.0.0"
+authors:
+  - Luis Lavena <luislavena@gmail.com>
+targets:
+  server:
+    main: src/main.cr
+  seed:
+    main: src/fruit_jokes/seeder.cr
+dependencies:
+  drift:
+    github: luislavena/drift
+  inertia:
+    github: luislavena/crystal-inertia
+    version: ~> 0.1.1
+  radix:
+    github: luislavena/radix
+  sqlite3:
+    github: crystal-lang/crystal-sqlite3
+  vite:
+    github: luislavena/crystal-vite

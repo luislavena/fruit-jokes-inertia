@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "inter-ui/inter-variable.css";
+
+@theme {
+    --font-sans: InterVariable, sans-serif;
+}

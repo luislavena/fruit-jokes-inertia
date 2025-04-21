@@ -1,0 +1,4 @@
+# rebuild and restart the application on changes
+server: watchexec -w src -f '**/*.cr' -f '**/*.ecr' --restart -- shards run server --stats
+# rebuild frontend assets
+vite: bun run dev

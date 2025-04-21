@@ -1,0 +1,8 @@
+*.db*
+*.env*
+
+bin/
+lib/
+node_modules/
+public/
+vendor/

@@ -1,0 +1,21 @@
+---
+services:
+  app:
+    build:
+      context: .
+      dockerfile: docker/dev.dockerfile
+      args:
+        - CRYSTAL_VERSION=${CRYSTAL_VERSION:?Version to use is required}
+    command: overmind start -f Procfile.dev
+    working_dir: /work
+    environment:
+      - OVERMIND_SOCKET=/tmp/overmind.sock
+
+    # Set these env variables using `export FIXUID=$(id -u) FIXGID=$(id -g)`
+    user: ${FIXUID:-1000}:${FIXGID:-1000}
+
+    ports:
+      - 8080:8080
+
+    volumes:
+      - .:/work:cached

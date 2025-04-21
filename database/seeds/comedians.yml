@@ -1,0 +1,99 @@
+# December 2024
+- id: 1
+  name: Jerry Seinfeld
+  specialty: Observational
+  created_at: 2024-12-05T10:30:00Z
+  updated_at: 2024-12-05T10:30:00Z
+- id: 2
+  name: Dave Chappelle
+  specialty: Satire
+  created_at: 2024-12-18T14:20:00Z
+  updated_at: 2024-12-18T14:20:00Z
+
+# January 2025
+- id: 3
+  name: Amy Schumer
+  specialty: Self-deprecation
+  created_at: 2025-01-08T09:45:00Z
+  updated_at: 2025-01-08T09:45:00Z
+- id: 4
+  name: Kevin Hart
+  specialty: Storytelling
+  created_at: 2025-01-15T16:15:00Z
+  updated_at: 2025-01-15T16:15:00Z
+- id: 5
+  name: John Mulaney
+  specialty: Anecdotal
+  created_at: 2025-01-27T11:30:00Z
+  updated_at: 2025-01-27T11:30:00Z
+
+# February 2025
+- id: 6
+  name: Ali Wong
+  specialty: Confessional
+  created_at: 2025-02-03T08:20:00Z
+  updated_at: 2025-02-03T08:20:00Z
+- id: 7
+  name: Bo Burnham
+  specialty: Musical
+  created_at: 2025-02-12T13:40:00Z
+  updated_at: 2025-02-12T13:40:00Z
+- id: 8
+  name: Hannah Gadsby
+  specialty: Alternative
+  created_at: 2025-02-20T15:55:00Z
+  updated_at: 2025-02-20T15:55:00Z
+- id: 9
+  name: Wanda Sykes
+  specialty: Observational
+  created_at: 2025-02-28T09:15:00Z
+  updated_at: 2025-02-28T09:15:00Z
+
+# March 2025
+- id: 10
+  name: Jim Gaffigan
+  specialty: Self-deprecation
+  created_at: 2025-03-05T14:30:00Z
+  updated_at: 2025-03-05T14:30:00Z
+- id: 11
+  name: Trevor Noah
+  specialty: Satirical
+  created_at: 2025-03-12T11:45:00Z
+  updated_at: 2025-03-12T11:45:00Z
+- id: 12
+  name: Hasan Minhaj
+  specialty: Storytelling
+  created_at: 2025-03-19T16:20:00Z
+  updated_at: 2025-03-19T16:20:00Z
+- id: 13
+  name: Iliza Shlesinger
+  specialty: Observational
+  created_at: 2025-03-27T10:10:00Z
+  updated_at: 2025-03-27T10:10:00Z
+
+# April 2025 (current month)
+- id: 14
+  name: Sarah Silverman
+  specialty: Satirical
+  created_at: 2025-04-02T13:25:00Z
+  updated_at: 2025-04-02T13:25:00Z
+- id: 15
+  name: Gabriel Iglesias
+  specialty: Storytelling
+  created_at: 2025-04-08T15:40:00Z
+  updated_at: 2025-04-08T15:40:00Z
+- id: 16
+  name: Tig Notaro
+  specialty: Deadpan
+  created_at: 2025-04-14T11:05:00Z
+  updated_at: 2025-04-14T11:05:00Z
+- id: 17
+  name: Patton Oswalt
+  specialty: Nerd Culture
+  created_at: 2025-04-19T09:30:00Z
+  updated_at: 2025-04-19T09:30:00Z
+- id: 18
+  name: Michelle Wolf
+  specialty: Political
+  created_at: 2025-04-22T14:15:00Z
+  updated_at: 2025-04-22T14:15:00Z

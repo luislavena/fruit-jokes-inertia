@@ -1,0 +1,14 @@
+*.db*
+*.dwarf
+/.shards/
+/bin/
+/docs/
+/lib/
+NOTES.txt
+
+# assets
+/node_modules
+/public/build
+
+# Overmind
+*.sock
